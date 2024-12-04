@@ -36,11 +36,7 @@ Beyond academics, I’m actively involved in **Scouting**, where I cultivate lea
 ---
 
 ### My Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelAlves27/MiguelAlves27/output/github-contribution-grid-snake-dark.svg?palette=github-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelAlves27/MiguelAlves27/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MiguelAlves27/MiguelAlves27/output/github-contribution-grid-snake.svg" />
-</picture>
+![snake animation](https://github.com/<MiguelAlves27>/<MiguelAlves27>/blob/output/github-contribution-grid-snake2.svg)
 
 ---
 
