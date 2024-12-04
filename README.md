@@ -58,8 +58,9 @@ Beyond academics, I’m actively involved in **Scouting**, where I cultivate lea
 ---
 
 ## 📫 Connect with Me  
-- **LinkedIn**: [Miguel Alves](https://www.linkedin.com/in/miguel-alves-a0b26a185)  
-- **Email**: miguelazevedoalves@gmail.com  
+[![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Alves-2da0ba?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-alves-a0b26a185) 
+
+**Email**: miguelazevedoalves@gmail.com  
 
 ---
 
