@@ -134,7 +134,7 @@ Beyond academics, I’m actively involved in **Scouting**, where I cultivate lea
 ---
 
 ### My Contributions
-![snake animation](https://github.com/<MiguelAlves27>/<MiguelAlves27>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/MiguelAlves27/MiguelAlves27/blob/output/github-contribution-grid-snake2.svg)
 
 ---
 
