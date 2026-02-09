@@ -133,22 +133,11 @@ Beyond academics, I’m actively involved in **Scouting**, where I cultivate lea
 
 ---
 
-### My Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelAlves27/MiguelAlves27/output/github-contribution-grid-snake-dark.svg?palette=github-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelAlves27/MiguelAlves27/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MiguelAlves27/MiguelAlves27/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
 ## 📫 Connect with Me
 <div> 
   <a href="https://instagram.com/miguel272003" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:miguelazevedoalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/miguel-alves-a0b26a185" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-**Email**: miguelazevedoalves@gmail.com  
 
 ---
 
