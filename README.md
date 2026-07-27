@@ -1,15 +1,35 @@
 # Hi, I'm Miguel Alves! 👋
 
-🎓 **Master's Student in Data Science & Artificial Intelligence**  
+🎓 **MSc in Data Science & Artificial Intelligence**  
 📍 **Instituto Superior Técnico (IST)**  
-🌟 **Scout in my free time | Math Tutor**  
+🌍 **Erasmus Exchange @ Lund University, Sweden**  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4B91F1&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Data+Science;Python+%7C+SQL+%7C+PyTorch+%7C+Scikit-learn;Agentic+AI+%26+LLM+Systems" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me  
-I hold a **Bachelor’s degree in Computer Engineering** from IST and am currently pursuing a **Master’s in Data Science and Artificial Intelligence**. My academic and professional interests revolve around leveraging technology to solve complex problems, with a particular focus on machine learning, data analysis, and algorithm optimization.  
+I hold a **Bachelor's degree in Computer Engineering** and a **Master's in Data Science and Artificial Intelligence**, both from IST. During my Master's, I spent a semester abroad on an **Erasmus exchange at Lund University**, Sweden. My academic and professional interests revolve around leveraging technology to solve complex problems, with a particular focus on machine learning, LLM-based agents, and data analysis.
 
-Beyond academics, I’m actively involved in **Scouting**, where I cultivate leadership and teamwork skills, and I dedicate time to tutoring students in **Mathematics**, helping them achieve their goals.
+---
+
+## 🎓 Master's Thesis - Automating Bureaucratic Processes with LLM Agents
+My thesis focused on **automating bureaucratic processes** using **LLM-based agent architectures running fully locally** (via **Ollama**), evaluating and comparing multiple open models - including **Qwen**, **Llama**, and **MiniCPM-V**.
+
+As part of the thesis, I designed and built **from scratch** a full-stack platform featuring:
+- 🗄️ A relational **database** backing the application
+- 🔐 **SSO authentication**
+- 🔗 Integration with the **university's academic system API**
+- 🛡️ **Role-based access control**, with permissions tailored per user role
+
+<p align="center">
+    <img src="https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+    <img src="https://img.shields.io/badge/-LLM%20Agents-4B8BBE?style=for-the-badge" alt="LLM Agents" />
+    <img src="https://img.shields.io/badge/-SSO%20Auth-2D3748?style=for-the-badge&logo=auth0&logoColor=white" alt="SSO Auth" />
+    <img src="https://img.shields.io/badge/-REST%20API%20Integration-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Integration" />
+</p>
 
 ---
 
@@ -120,19 +140,23 @@ Beyond academics, I’m actively involved in **Scouting**, where I cultivate lea
 ---
 
 ### **Interests**  
-- Machine Learning & AI  
-- Data Visualization & Analysis  
-- Computational Problem Solving  
-  
+<p align="center">
+    <img src="https://img.shields.io/badge/-Machine%20Learning-8A2BE2?style=for-the-badge" alt="Machine Learning" />
+    <img src="https://img.shields.io/badge/-LLMs%20%26%20AI%20Agents-FF6F61?style=for-the-badge" alt="LLMs & AI Agents" />
+    <img src="https://img.shields.io/badge/-Data%20Visualization-2CA02C?style=for-the-badge" alt="Data Visualization" />
+</p>
 
 ---
 
-## 📫 Connect with Me
-<div> 
-  <a href="https://instagram.com/miguel272003" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:miguelazevedoalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/miguel-alves-a0b26a185" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+## 📫 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/miguel-alves-a0b26a185" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:miguelazevedoalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://instagram.com/miguel272003" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
 ---
 
-🌱 _“Learning never exhausts the mind.” – Leonardo da Vinci_  
+<p align="center">
+  🌱 <i>"Learning never exhausts the mind." - Leonardo da Vinci</i>
+</p>  
